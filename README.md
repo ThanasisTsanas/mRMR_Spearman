@@ -35,6 +35,4 @@ Chapter 7 in Handbook of Systems and Complexity in Health, pp. 113-125, Eds. J.P
 % medical data", Chapter 7 in Handbook of Systems and Complexity in Health, 
 % pp. 113-125, Eds. J.P. Sturmberg, and C.M. Martin, Springer, 2013
 % ********************************************************************
-%
-% For any question, to report bugs, or just to say this was useful, email
-% tsanasthanasis@gmail.com
+
